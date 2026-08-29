@@ -1,10 +1,10 @@
-# VitC - GPU Marketplace Finance Platform
+GPU Marketplace Finance Platform
 
 A comprehensive two-sided marketplace finance platform that democratizes access to GPU compute through innovative pricing, credit scoring, and job-level micro-financing.
 
 ## Overview
 
-VitC (Vitamin C) is a next-generation GPU marketplace that solves critical problems on both sides of the compute market:
+ComputeFlow is a next-generation GPU marketplace that solves critical problems on both sides of the compute market:
 
 **For GPU Suppliers:** Maximize utilization rates and revenue through dynamic pricing and automated optimization.
 
